@@ -272,8 +272,7 @@ for (int N = 78; N<282; N++) {
     // PRINT TO CONSOLE printf("N: %d, Comparisons: %lld, Shifts: %lld\n", N, (overallComparisons / 500), (overallSwaps / 500));
     // WRITE TO FILE
     // WITH PERCENT fprintf(file, "N: %d, Comparisons: %lld, Shifts: %lld, Percentage change: %lf%%\n", N, (overallComparisons / 500), (overallSwaps / 500), percentageChange);
-    //
-    //
+    
     fprintf(file, "N: %d, Comparisons: %lld, Shifts: %lld\n", N, (overallComparisons / 500), (overallSwaps / 500));
 
     kPrinted = 0;
