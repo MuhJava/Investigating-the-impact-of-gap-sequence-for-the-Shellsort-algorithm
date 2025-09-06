@@ -8,11 +8,11 @@ specific lower and higher bounds of N for that value in that sequence. The lates
 until one balance outweighs the other. This concept and other numerical factors are explored. 
 
 ## Configurations used although later versions may work
-Eclipse version 4.28.0 – Integrated development environment 
-C - GCC version 6.3.0 
-Anaconda navigator version 2.6.4 - Distribution platform 
-Jupyter notebook version 7.2.2 - web application utilised for python coding
-mt19937ar.c and mt19937ar.h source files available at <https://www.math.sci.hiroshima-u.ac.jp/m-mat/MT/MT2002/emt19937ar.html>
+- Eclipse version 4.28.0 – Integrated development environment 
+- C - GCC version 6.3.0 
+- Anaconda navigator version 2.6.4 - Distribution platform 
+- Jupyter notebook version 7.2.2 - web application utilised for python coding
+- mt19937ar.c and mt19937ar.h source files available at <https://www.math.sci.hiroshima-u.ac.jp/m-mat/MT/MT2002/emt19937ar.html>
 
 ### Dependencies
 None
